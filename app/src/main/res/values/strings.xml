@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="clyde_tsiu">clyde tsiu</string>
+    <string name="book_name">Book Name</string>
+    <string name="_1">1</string>
+    <string name="book_title">Book Title</string>
+    <string name="book_author">Book Author</string>
+    <string name="_120">120</string>
+    <string name="delete_all">deleteAll</string>
+    <string name="_99">99</string>
+</resources>
